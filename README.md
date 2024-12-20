@@ -34,6 +34,7 @@ This analysis only covers 2013 to 2022, and risk of poverty data is only for 202
 ### Population Data Limitations
 **1.	Lack of Combined Demographics:**
   -	Population data is broken into separate attributes such as gender, nationality, and migration background but does not provide combined views (e.g., non-German females).
+
 **2. Granularity:**
   - Population data only includes the total population of Berlin, and does not include district or neighborhood granularity.
 
@@ -41,13 +42,17 @@ This analysis only covers 2013 to 2022, and risk of poverty data is only for 202
 **1.	Overall Crime Trends:**
   -	How have crime rates changed in Berlin from 2013 to 2022?
   -	Are there specific crime categories with a noticeable increase or decrease over time?
+
 **2.	Geographical Crime Analysis:**
   -	Which neighborhoods or districts have the highest and lowest crime rates per 100,000 population?
   -	Are certain types of crimes more prevalent in specific districts or neighborhoods?
+
 **3.	Temporal Analysis:**
   -	How do crime rates vary over the years within individual districts?
+
 **4.	Correlation with Population:**
   -	Do districts with higher populations have a higher rate of certain crimes per 100,000 population?
+
 **5.	Nationality and Migration Background:**
   -	Is there any relationship between crime rates and the proportion of Germans versus foreigners in Berlin?
   -	Does the proportion of individuals with or without migration backgrounds correlate with crime rates in the city?
