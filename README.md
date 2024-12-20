@@ -51,3 +51,5 @@ Berlin crime rate - [Polzei Berlin](https://www.kriminalitaetsatlas.berlin.de/K-
 Berlin population from 1950 - 2035 (projected) - [Macrotrend](https://www.macrotrends.net/global-metrics/cities/204296/berlin/population), accessed 13 December 2024
 
 Berlin Poverty Risk- [Amt für Statistik Berlin-Brandenburg](https://www.statistik-berlin-brandenburg.de/archiv/a-i-10-a-i-11-a-vi-2-j), accessed 13 December 2024
+
+Berlin Geodata - [Open Data Informationsstelle Berlin](https://daten.odis-berlin.de/), accessed 12 December 2024
